@@ -1,8 +1,6 @@
 # Keyring
 
-Keyring is a simple password vault that I built to practice working with authentication, password security, and frontend development.
-
-The idea is to have one place where I can manage passwords, generate stronger ones, and check how strong a password is.
+Keyring is a simple password vault that I built to practice working with authentication, password security, and frontend development. The idea is to have one place where I can manage passwords, generate stronger ones, and check how strong a password is.
 
 ## Features
 
